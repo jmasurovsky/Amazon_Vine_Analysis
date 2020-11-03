@@ -14,4 +14,4 @@ The purpose of this project is to assist SellBy in another project that compares
 
 ## Summary: 
 
-Based off the results, there seems to be a positivity bias for reviews in the Vine program. About 12% more reviews were 5-star in the Vine program compared to the non-Vine reviews. An additional analysis I would perform to support this claim would be replicating the same methodology with other Amazon datasets. This would enable a better understanding if a similar pattern is occurring across other datasets, giving us a better survey sample.
+Based off the results, there seems to be a positivity bias for reviews in the Vine program. About 12% more reviews were 5-star in the Vine program compared to the non-Vine reviews. An additional analysis I would perform to support this claim would be replicating the same methodology with other Amazon datasets. This would enable a better understanding if a similar pattern is occurring across other datasets, giving us a more statistically significant survey sample.
